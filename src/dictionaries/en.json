@@ -1,0 +1,38 @@
+{
+  "logo": "Pizza",
+  "home": {
+    "hero": {
+      "title": "Slice into Happiness",
+      "description": "Craving pizza? We've got you covered with fresh ingredients, endless flavors, and the fastest delivery. Your perfect slice is just a tap away!",
+      "orderNow": "Order Now",
+      "learnMore": "Learn More"
+    },
+    "bestSeller": {
+      "title": "Our Best Sellers",
+      "checkOut": "checkOut"
+    },
+    "about": {
+      "sectionTitle": "Our Story",
+      "title": "About Us",
+      "paragraph1": "Welcome to our pizzeria, where we serve the finest pizzas made with the freshest ingredients. Every slice is a masterpiece, crafted with care to deliver the perfect balance of flavors. From classic favorites to unique creations, there’s something for every pizza lover!",
+      "paragraph2": "Our passion for pizza shines through every dish. We hand-pick the best local ingredients and bake them to perfection, ensuring that every bite is delicious and satisfying. Whether you're here for a quick meal or a relaxed dining experience, we’ve got you covered.",
+      "paragraph3": "Join us on a flavorful journey and experience the joy of pizza like never before. We pride ourselves on delivering great taste, quality, and service to make every meal memorable. Come and taste the difference!"
+    },
+    "contact": {
+      "cta": "Don't Hesitate",
+      "title": "Contact Us",
+      "phone": "+201060132785"
+    }
+},
+"navbar": {
+    "menu": "Menu",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login"
+},
+"footer": {
+    "rights": "Pizza Shop. All rights reserved."
+},
+"noProductsFound": "No Products found"
+  
+}
