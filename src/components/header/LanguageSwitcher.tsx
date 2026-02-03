@@ -15,7 +15,7 @@ function LanguageSwitcher() {
   };
 
   return (
-    <div className="flex mx-4">
+    <div className="flex">
       {lang === Languages.ARABIC ? (
         <Button variant="outline" onClick={() => switchLang(Languages.ENGLISH)}>
           EN

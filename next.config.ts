@@ -4,7 +4,22 @@ const nextConfig: NextConfig = {
   /* config options here */
   reactCompiler: true,
   images: {
-    domains: ["picsum.photos"],
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "**",
+      },
+      // {
+      //   protocol: "https",
+      //   hostname: "picsum.photos",
+      //   pathname: "/**",
+      // },
+      // {
+      //   protocol: "https",
+      //   hostname: "next-auth.js.org",
+      //   pathname: "/**",
+      // }
+    ],
   },
 };
 
